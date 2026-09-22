@@ -1,0 +1,55 @@
+{
+  "boutique": "Éclat Niger",
+  "devise": "FCFA",
+  "note_pour_medo": "Remplis les prix et le stock ci-dessous. Ajoute/retire des produits librement — l'agent lit ce fichier à chaque redémarrage.",
+  "produits": [
+    {
+      "id": "abaya-001",
+      "nom": "Abaya classique noire",
+      "categorie": "Abayas",
+      "prix": 0,
+      "stock": true,
+      "description": "Abaya noire simple, tissu fluide, coupe évasée."
+    },
+    {
+      "id": "abaya-002",
+      "nom": "Abaya brodée",
+      "categorie": "Abayas",
+      "prix": 0,
+      "stock": true,
+      "description": "Abaya avec broderies sur les manches et le col."
+    },
+    {
+      "id": "hijab-001",
+      "nom": "Hijab jersey",
+      "categorie": "Hijabs",
+      "prix": 0,
+      "stock": true,
+      "description": "Hijab en jersey extensible, plusieurs couleurs disponibles."
+    },
+    {
+      "id": "boubou-001",
+      "nom": "Boubou traditionnel",
+      "categorie": "Boubous",
+      "prix": 0,
+      "stock": true,
+      "description": "Boubou brodé, tissu bazin ou coton selon disponibilité."
+    },
+    {
+      "id": "jallabiya-001",
+      "nom": "Jallabiya homme",
+      "categorie": "Jallabiyas",
+      "prix": 0,
+      "stock": true,
+      "description": "Jallabiya homme, coupe classique."
+    },
+    {
+      "id": "foulard-001",
+      "nom": "Foulard du Niger",
+      "categorie": "Foulards",
+      "prix": 0,
+      "stock": true,
+      "description": "Foulard artisanal originaire du Niger."
+    }
+  ]
+}
